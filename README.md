@@ -1,7 +1,7 @@
 # scramble-solver
 brute force solver for scramble square 3x3
 
-__Sources:__
+__Sources:__ <br>
 Sramble squares vendor:
 ex: https://www.scramblesquares.com/
 
