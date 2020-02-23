@@ -4,7 +4,9 @@ Python 3.6
 
 # Presentation
 the scrambe square is a 3x3 puzzle, where eah tile has 4 eadges, and each edge contains half of an image (ex:)
+
 ![alt text](https://www.scramblesquares.com/wp-content/uploads/10132-Cats72dpi.jpg)
+
 # Objective
 
 
