@@ -8,7 +8,8 @@ the scrambe square is a 3x3 puzzle as per below. The objective is to complete th
 
 ![alt text](https://raw.githubusercontent.com/EtienneJanel/scramble-solver/master/other/puzzle_example.PNG)
 
-(you can try it out and print the above puzzle! the same nine tiles are used in the main.ipynb to solve it)
+You can try it out and print the above puzzle! If somehow you are stuck, don't hesitate to run main.ipynb to see the solution.<br>
+after all there is only **4^9 × 9!** different arrangements
 
 # Our objective
 Create a simple script that uses recursion - brute force - in order to solve the puzzle.
@@ -44,7 +45,7 @@ https://www.youtube.com/watch?v=G_UYXzGuqvM<br>
 Emojis <br>
 https://emojipedia.org/
 
-# TO DO
+# TO DO (deadline: never)
 - Create interactive version of the puzzle to play it with the mouse
 - Finish the script that would randomise the images (emojis) in the puzzle
 - Create a script to generate puzzle
