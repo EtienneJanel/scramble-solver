@@ -28,3 +28,6 @@ http://users.wfu.edu/masonsk/scramblesquares.pdf<br>
 
 Python Sudoku Solver - Computerphile (2020)<br>
 https://www.youtube.com/watch?v=G_UYXzGuqvM<br>
+
+Emojis <br>
+https://emojipedia.org/
