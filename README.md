@@ -14,7 +14,8 @@ After all there is only **(4^9) × (9!) = 95 126 814 720** different arrangement
 
 # Our objective
 Create a simple script that uses recursion - brute force - in order to solve the puzzle.
-In our solver, each one of the four drawings has a number from 1 to 4 where Head = +1 ; Tail = -1
+In our solver, each one of the four drawings in a tile has a numbers from 1 to 4 where Head = +1 ; Tail = -1
+And the sequence used is North-East-South-West, in order to create tiles like below *p1 = Tile("p1", -1, 3, -2, 4)*
 
 ![alt text](https://raw.githubusercontent.com/EtienneJanel/scramble-solver/master/other/puzzle_example_coordinates.PNG)
 
