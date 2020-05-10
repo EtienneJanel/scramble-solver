@@ -23,13 +23,13 @@ In our solver, each one of the four drawings has a number from 1 to 4 where Head
         4:'snake head',     -4:'snake tail'
 
 # Structure
-main.ipynb:         main file that takes the puzzle and solves it
-define_tile.py:     defines the image with coordinates or cardinal points p1 = Tile("p1",-1,-3,-2,4)
-solution_finder.py: takes a grid 3x3 and 9 tiles as argument, shows the solution if exists
+main.ipynb:         main file that takes the puzzle and solves it<br>
+define_tile.py:     defines the image with coordinates or cardinal points p1 = Tile("p1",-1,-3,-2,4)<br>
+solution_finder.py: takes a grid 3x3 and 9 tiles as argument, shows the solution if exists<br>
 
-./img:    .png images (p1, p2...) used to show the solution if any
-./emojis: list of .png raw images to build the tiles in ./img
-./other:  miscelaneous
+./img:    .png images (p1, p2...) used to show the solution if any<br>
+./emojis: list of .png raw images to build the tiles in ./img<br>
+./other:  miscelaneous<br>
 
 # Sources
 Sramble squares vendor:<br>
