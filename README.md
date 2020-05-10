@@ -43,3 +43,11 @@ https://www.youtube.com/watch?v=G_UYXzGuqvM<br>
 
 Emojis <br>
 https://emojipedia.org/
+
+# TO DO
+- Create interactive version of the puzzle to play it with the mouse
+- Finish the script that would randomise the images (emojis) in the puzzle
+- Create a script to generate puzzle
+- Challenge the solver by adding more tiles (3x4, 4x4,...)
+- Build smarter version of the solver and compare the performances
+- Host the final version of the game and solver online
