@@ -22,6 +22,15 @@ In our solver, each one of the four drawings has a number from 1 to 4 where Head
         3:'sloth head',     -3:'sloth tail',
         4:'snake head',     -4:'snake tail'
 
+# Structure
+main.ipynb:         main file that takes the puzzle and solves it
+define_tile.py:     defines the image with coordinates or cardinal points p1 = Tile("p1",-1,-3,-2,4)
+solution_finder.py: takes a grid 3x3 and 9 tiles as argument, shows the solution if exists
+
+./img:    .png images (p1, p2...) used to show the solution if any
+./emojis: list of .png raw images to build the tiles in ./img
+./other:  miscelaneous
+
 # Sources
 Sramble squares vendor:<br>
 ex: https://www.scramblesquares.com/
