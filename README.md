@@ -8,16 +8,19 @@ the scrambe square is a 3x3 puzzle as per below. The objective is to complete th
 
 ![alt text](https://raw.githubusercontent.com/EtienneJanel/scramble-solver/master/other/puzzle_example.PNG)
 
+(you can try it out and print the above puzzle! the same nine tiles are used in the main.ipynb to solve it)
+
 # Our objective
 Create a simple script that uses recursion - brute force - in order to solve the puzzle.
 In our solver, each one of the four drawings has a number from 1 to 4 where Head = +1 ; Tail = -1
+
 ![alt text](https://raw.githubusercontent.com/EtienneJanel/scramble-solver/master/other/puzzle_example_coordinates.PNG)
 
-mapping:
-    {1:'duck head', -1:'duck tail',
-    2:'orangutan head', -2:'orangutan tail',
-    3:'sloth head', -3:'sloth tail',
-    4:'snake head', -4:'snake tail'}
+    mapping:
+        1:'duck head',      -1:'duck tail',
+        2:'orangutan head', -2:'orangutan tail',
+        3:'sloth head',     -3:'sloth tail',
+        4:'snake head',     -4:'snake tail'
 
 # Sources
 Sramble squares vendor:<br>
